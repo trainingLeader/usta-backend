@@ -46,6 +46,8 @@
 # database.tests.DBPrefix =
 # database.tests.port = 3306
 
+#app.baseUrl.tramiterscrc = https://pru.tramitescrcom.gov.co/api-get-way/api/v1
+
 #--------------------------------------------------------------------
 # CONTENT SECURITY POLICY
 #--------------------------------------------------------------------
